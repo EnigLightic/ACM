@@ -1,2 +1,2 @@
-NULL now.
-Adding...
+GoGoGo!!!
+我会一直坚持在洛谷上面写代码的!
